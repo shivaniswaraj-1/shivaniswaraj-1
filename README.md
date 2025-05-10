@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Web Development and Java**
 
-- 👨‍💻 All of my projects are available at [https://github.com/shivaniswaraj-1/Portfolio-](https://github.com/shivaniswaraj-1/Portfolio-)
+- 👨‍💻 All of my projects are available at [https://shivaniswaraj-1.github.io/Portfolio-/](https://shivaniswaraj-1.github.io/Portfolio-/)
 
 - 📫 How to reach me **shivaniswaraj02@gmail.com**
 
@@ -17,6 +17,7 @@
 <a href="https://linkedin.com/in/www.linkedin.com/in/shivani-swaraj-3115a8251" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/shivani-swaraj-3115a8251" height="30" width="40" /></a>
 <a href="https://instagram.com/pandey_shivani16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pandey_shivani16" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/swarajshivani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="swarajshivani" height="30" width="40" /></a>
+<a href="https://discord.gg/shivaniswaraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="shivaniswaraj" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
