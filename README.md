@@ -14,10 +14,6 @@
 
 ---
 
-### 🌟 Featured Projects
-- 🏡 **[PropVista](https://github.com/shivaniswaraj-1/PropVista)** – Real estate website built using HTML, CSS, and Bootstrap.  
-- 📷 **[Photography Portfolio](https://github.com/shivaniswaraj-1/photography)** – Responsive photography showcase website.  
-- 🔒 *More full-stack projects (Wanderlust, Book Rental System) available upon request.*
 
 ---
 
