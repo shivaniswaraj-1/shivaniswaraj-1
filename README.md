@@ -9,7 +9,7 @@
 
 ### 👩‍💻 About Me
 🔭 Building full-stack applications with Java Spring Boot and React.js
-💼 Open to Associate Java Developer / Full Stack Developer roles in Bangalore
+💼 Open to Associate Java Developer / Full Stack Developer roles in Bangalore / Software Developer
 📫 **shivaniswaraj02@gmail.com**
 
 ---
