@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shivani Swaraj</h1>
-<h3 align="center">Software Developer | Java | Spring Boot | React.js | Open to Work</h3>
+<h3 align="center">Software Developer | React.js | Open to Work</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shivaniswaraj-1&label=Profile%20views&color=0e75b6&style=flat" alt="shivaniswaraj-1" />
@@ -8,8 +8,8 @@
 ---
 
 ### 👩‍💻 About Me
-🔭 Building full-stack applications with Java Spring Boot and React.js
-💼 Open to Associate Java Developer / Full Stack Developer roles in Bangalore / Software Developer
+🔭 Building full-stack applications with Mern Stack
+💼 Open to Associate Frontend Developer / Full Stack Developer roles in Bangalore / Software Developer
 📫 **shivaniswaraj02@gmail.com**
 
 ---
