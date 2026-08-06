@@ -11,9 +11,14 @@
 ---
 
 ### 👩‍💻 About Me
-🔭 Building full-stack applications with Mern Stack
-💼 Open to Associate Frontend Developer / Full Stack Developer roles in Bangalore / Software Developer
-📫 **shivaniswaraj02@gmail.com**
+
+- Frontend Developer focused on React.js, JavaScript, and TypeScript
+- Building responsive and user-friendly web applications
+- Interested in modern frontend architecture and API integration
+- Open to Frontend Developer and React Developer opportunities
+- Based in Bangalore, India
+
+📫 Reach me at: **shivaniswaraj02@gmail.com**
 
 ---
 
@@ -28,6 +33,33 @@
   <a href="https://www.leetcode.com/swarajshivani" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
   <a href="https://discord.gg/shivaniswaraj" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" /></a>
 </p>
+
+---
+
+
+## 🚀 Featured Projects
+
+### 💰 Expensify — Full Stack Expense Tracker
+React • TypeScript • Node.js • MongoDB
+
+- JWT Authentication
+- Expense & Income Tracking
+- Analytics Dashboard
+- Responsive UI
+
+🔗 [Live Demo](https://expensify-xi.vercel.app/) | [Repository](https://github.com/shivaniswaraj-1/expensify)
+
+---
+
+### 🏡 WanderLust — Airbnb Clone
+Node.js • Express • MongoDB
+
+- User Authentication
+- Image Uploads
+- Reviews & Listings
+- Responsive Design
+
+🔗 [Live Demo](https://wanderlust-uzd6.onrender.com/) | [Repository](https://github.com/shivaniswaraj-1/wanderlust)
 
 ---
 
