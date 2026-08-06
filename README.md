@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shivani Swaraj</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=2500&pause=1000&color=0E75B6&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub+Profile;Frontend+Developer;React.js+Developer;JavaScript+%7C+TypeScript;Building+Responsive+Web+Applications;Open+to+Frontend+Opportunities" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=2500&pause=1000&center=true&vCenter=true&width=750&color=0E75B6&lines=Welcome+to+my+GitHub+Profile;I%27m+a+Frontend+Developer;React.js+Developer;JavaScript+%7C+TypeScript;Open+to+Work" alt="Typing SVG" />
 </p>
 
 <p align="center">
