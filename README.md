@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shivani Swaraj</h1>
-<h3 align="center">Software Developer | React.js | Open to Work</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Frontend+Developer;React.js+Developer;JavaScript+%7C+TypeScript;Open+to+Work" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shivaniswaraj-1&label=Profile%20views&color=0e75b6&style=flat" alt="shivaniswaraj-1" />
